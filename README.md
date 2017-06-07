@@ -4,4 +4,4 @@ Exercício da aula02
 Atores
 - Angelina Jolie
 - Ivete Sangalo
-- Maria Paula
+- Maria Paula da Silva
